@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=IntegerList
+comment1.params=size
+comment1.target=IntegerList(int)
+comment2.params=
+comment2.target=void\ randomize()
+comment3.params=oldVal\ newVal
+comment3.target=void\ replaceFirst(int,\ int)
+comment4.params=oldVal\ newVal
+comment4.target=void\ replaceAll(int,\ int)
+comment5.params=
+comment5.target=void\ print()
+comment6.params=target
+comment6.target=int\ search(int)
+comment7.params=
+comment7.target=void\ selectionSort()
+numComments=8
